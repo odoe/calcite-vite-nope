@@ -1,0 +1,9 @@
+@import 'https://js.arcgis.com/calcite-components/1.0.0-beta.68/calcite.css';
+
+html,
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
